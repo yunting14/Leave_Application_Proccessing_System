@@ -28,14 +28,4 @@ username = Kaung,password = a123
 
 username = pearl, password = a123
 
-3. Run React App
-
-> Run Leave_application_processing_system-react-0.0.2 
-
-> Open terminal and enter
-
-npm install
-npm start
-Running on http://localhost:3000/
-
 
