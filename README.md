@@ -1,6 +1,10 @@
 # leave_application_processing_system
 
-Instruction for Running Leave Application Processing System -Step by Step
+A leave application processing and management system built on Spring Boot that supports employee, manager and admini user roles
+
+[Video demo of application here](https://drive.google.com/file/d/1K6a6hBcinxtVR4n7mAgV0BGm4wZMBFda/view?usp=sharing)
+
+### Instruction for Running Leave Application Processing System -Step by Step
 1. Create Database
 
 > Go to HeidiSQL (or) MySQL Workbench and log in
